@@ -1,0 +1,44 @@
+#THIS IS THE PROCESS I FOLLOWED TO SET UP MY DEVELOPMENT ENVIRONMENT.
+
+Q1.
+I started with installing windows 11 on my laptop. I did this using a bootable USB drive.
+ I downloaded the Windows 11 ISO file from the Microsoft website and used Rufus to create a 
+ bootable USB drive. I then booted my laptop from the USB drive and installed windows 11.
+ To confirm it, I checked the system properties by right-clicking the start button and selecting 
+ system. This is the screenshot to confirm that windows 11 is installed.
+ The screenshot is, windows11.jpg
+
+ Q2.
+My preferred text editor is Visual Studio Code. I've attached a screensot of it to prove I've actually 
+installed it.
+The screenshot is, visual studio code.PNG.
+
+Q3. 
+I've created a github account and created my first repository.
+Here is the screenshot name, github account.PNG.
+
+Q4.
+Have installed python as a programming language and here is a screenshot of it.
+The screenshot is,Python.PNG
+I have also installed dart and flutter.
+The screenshot is,dart and flutter.PNG
+
+Q5.
+Have installed pip as package manager successfully.
+Here is the screenshot,pip.PNG
+
+Q6.
+I have downloaded and installed MYSQL.
+Here is the screenshot,mysql.png
+
+Q7.I Have set up my development environment and virtulization tool. I have downloaded and installed docker.
+To check for any issues check Docker Desktop settings,ensure Hyper-V and Containers features
+are enabled, verify WSL 2 is correctly installed if used.
+Here is the screenshort, docker.PNG
+
+
+
+Q8.
+Here are some of the extensions I have installed in the visual studio code as a text editor.
+Screenshot incude,extensions1.PNG and extensions2.PNG
+
